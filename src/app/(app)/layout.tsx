@@ -3,16 +3,13 @@
 import Link from "next/link";
 import Image from "next/image";
 import {
-  Bell,
   Home,
   Users,
   Stethoscope,
-  Building2,
   Settings,
   PanelLeft,
   Search,
   LogOut,
-  ChevronDown,
 } from "lucide-react";
 
 import {

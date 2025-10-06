@@ -35,7 +35,6 @@ import { Textarea } from "@/components/ui/textarea";
 import {
     AlertDialog,
     AlertDialogAction,
-    AlertDialogCancel,
     AlertDialogContent,
     AlertDialogDescription,
     AlertDialogFooter,
@@ -46,14 +45,14 @@ import {
 
 // --- DADOS ESTÁTICOS PARA SIMULAÇÃO ---
 const pacientes = [
-  { id: 1, nome: "Ana Paula" },
-  { id: 2, nome: "Marcos Rocha" },
-  { id: 3, nome: "Juliana Costa" },
+  { id: 1, nome: "André Santana" },
+  { id: 2, nome: "Gleice Beatriz" },
+  { id: 3, nome: "John Verstappen" },
 ];
 const medicos = [
-  { id: 1, nome: "Dr. Carlos Andrade", especialidade: "Cardiologia" },
-  { id: 2, nome: "Dra. Beatriz Lima", especialidade: "Dermatologia" },
-  { id: 3, nome: "Dr. Ricardo Mendes", especialidade: "Ortopedia" },
+  { id: 1, nome: "Dr. Macilon", especialidade: "Cardiologia" },
+  { id: 2, nome: "Dra. Laura Sarkis", especialidade: "Dermatologia" },
+  { id: 3, nome: "Dr. Daricélio", especialidade: "Ortopedia" },
 ];
 // -----------------------------------------
 
