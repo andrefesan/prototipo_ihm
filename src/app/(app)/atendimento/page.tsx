@@ -33,8 +33,8 @@ import { Badge } from "@/components/ui/badge";
 const atendimentos = [
   {
     id: 1,
-    paciente: "Ana Paula",
-    medico: "Dr. Carlos Andrade",
+    paciente: "Andre Santana",
+    medico: "Dr. Daricélio",
     tipo: "CONSULTA",
     status: "AGENDADO",
     data: "2025-10-10",
@@ -42,8 +42,8 @@ const atendimentos = [
   },
   {
     id: 2,
-    paciente: "Marcos Rocha",
-    medico: "Dra. Beatriz Lima",
+    paciente: "Gleice Beatriz",
+    medico: "Dra. Laura Sarkis",
     tipo: "RETORNO",
     status: "REALIZADO",
     data: "2025-10-08",
@@ -51,8 +51,8 @@ const atendimentos = [
   },
   {
     id: 3,
-    paciente: "Juliana Costa",
-    medico: "Dr. Carlos Andrade",
+    paciente: "John Verstappen",
+    medico: "Dr. Daricélio",
     tipo: "EXAME",
     status: "CANCELADO",
     data: "2025-10-09",
@@ -60,8 +60,8 @@ const atendimentos = [
   },
   {
     id: 4,
-    paciente: "Roberto Dias",
-    medico: "Dr. Ricardo Mendes",
+    paciente: "Rafel Almeida",
+    medico: "Dr. Macilon",
     tipo: "CONSULTA",
     status: "AGENDADO",
     data: "2025-10-12",
@@ -69,8 +69,8 @@ const atendimentos = [
   },
   {
     id: 5,
-    paciente: "Fernanda Souza",
-    medico: "Dra. Beatriz Lima",
+    paciente: "Mayara Menezes",
+    medico: "Dra. Laura Sarkis",
     tipo: "CONSULTA",
     status: "REALIZADO",
     data: "2025-10-06",
